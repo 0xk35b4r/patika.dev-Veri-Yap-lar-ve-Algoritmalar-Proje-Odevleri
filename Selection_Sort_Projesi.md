@@ -14,14 +14,21 @@
 
 ## Big O Gösterimi
 Average Case: O(n^2)
+
 Worst Case: O(n^2)
+
 Best CASE: o(n)
+
 
 ## Time Complexity (18)
 Average Case 
 
 ## [7,3,5,8,22,9,4,15,6] -> Original Set
 [(2),3,5,8,7,9,4,15,6]
+
 [(2,3),5,8,7,9,4,15,6]
+
 [(2,3,4),8,7,9,5,15,6]
+
 [(2,3,4,5),7,9,8,15,6]
+
